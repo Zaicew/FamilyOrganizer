@@ -1,8 +1,8 @@
-﻿using FamilyOrganizer.Models;
+﻿using System.Diagnostics;
+using FamilyOrganizer.UI.Models;
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
 
-namespace FamilyOrganizer.Controllers
+namespace FamilyOrganizer.UI.Controllers
 {
     public class HomeController : Controller
     {

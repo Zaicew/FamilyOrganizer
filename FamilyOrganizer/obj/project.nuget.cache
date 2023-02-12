@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wx/r+BcHxLIPOMYiqSiWKsyw/4fZjt2hozKmKXwbWgFjpEY4XRMP1pXgQzIi5IapthSdHcRAMCTjtkcwoPpP/w==",
+  "dgSpecHash": "uX9cDvDl35l05Y0rdFHvpUw4ue4v085MomUYg8oVwbJtbxGJaxqq2d2doLDgLgUyZkHLfv2aKa7eOqkBtgbyiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\FamilyOrganizer\\FamilyOrganizer\\UI.csproj",
+  "projectFilePath": "C:\\Users\\Daniel\\source\\repos\\FamilyOrganizer\\FamilyOrganizer\\FamilyOrganizer.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

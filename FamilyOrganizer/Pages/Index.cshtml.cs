@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace FamilyOrganizer.Pages
+namespace FamilyOrganizer.UI.Pages
 {
     public class IndexModel : PageModel
     {

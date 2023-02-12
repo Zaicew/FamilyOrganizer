@@ -2,9 +2,10 @@
 
 public class Category : BaseModel
 {
-    public Category(Guid id)
+    public string Name { get; set; }
+    public Category(Guid id, string name)
         : base(id)
     {
-        //Do some changes
+        Name = name;
     }
 }

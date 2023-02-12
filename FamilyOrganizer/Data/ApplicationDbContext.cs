@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace FamilyOrganizer.Data
+namespace FamilyOrganizer.UI.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

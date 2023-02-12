@@ -1,4 +1,4 @@
-namespace FamilyOrganizer.Models
+namespace FamilyOrganizer.UI.Models
 {
     public class ErrorViewModel
     {
